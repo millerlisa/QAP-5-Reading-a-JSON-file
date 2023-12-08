@@ -6,3 +6,6 @@ Error Messages: index.html:1 index.html:1 Access to fetch at 'file:///Users/keyi
 policies.json:1 Failed to load resource: net::ERR_FAILED
 
 json.js:3 Uncaught (in promise) TypeError: Failed to fetch at json.js:3:1
+
+
+UPDATE! I have been able to use "open with live server" - victory!
